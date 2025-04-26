@@ -6,6 +6,6 @@ def selectionSort(arr):
                 min = arr[j]
                 arr[j] = arr[i]
                 arr[i] = min
-    print(arr)
+    return arr
 
 selectionSort([8,1,2,2,3])
