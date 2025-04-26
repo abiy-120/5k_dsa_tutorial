@@ -3,11 +3,19 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        for i in range(len(nums)):
-            min = nums[i]
-            for j in range(i, len(nums)):
-                if nums[j] < min:
-                    min = nums[j]
-                    nums[j] = nums[i]
-                    nums[i] = min
-        
+        low = 0
+        mid = 0
+        high = len(nums) - 1
+        pivot = 1
+
+        while mid <= high:
+            if nums[mid] < pivot:
+                nums[mid], nums[low] = nums[low], nums[mid]
+                low += 1
+                mid += 1
+            elif nums[mid] > pivot:
+                nums[mid], nums[high] = nums[high], nums[mid]
+                high -= 1
+            else:
+                mid += 1
+            
