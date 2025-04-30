@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2639-separate-the-digits-in-an-array) |
 | [3651-transformed-array](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/3651-transformed-array) |
