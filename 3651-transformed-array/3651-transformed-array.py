@@ -7,7 +7,6 @@ class Solution:
                 result[i] = nums[i]
             elif nums[i] > 0:
                 k = (i + nums[i]) % size
-                print(k)
                 result[i] = nums[k]
             else:
                 k = (i - abs(nums[i])) % size
