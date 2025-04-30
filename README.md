@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2502-sort-the-people) |
+| [2639-separate-the-digits-in-an-array](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2639-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2639-separate-the-digits-in-an-array](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2639-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
