@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0283-move-zeroes) |
 | [0917-boats-to-save-people](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0917-boats-to-save-people) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0633-sum-of-square-numbers) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0088-merge-sorted-array) |
 | [0917-boats-to-save-people](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0917-boats-to-save-people) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2502-sort-the-people) |
