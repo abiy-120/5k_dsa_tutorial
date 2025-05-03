@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0633-sum-of-square-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/2639-separate-the-digits-in-an-array) |
 | [3651-transformed-array](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/3651-transformed-array) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/abiy-120/5k_dsa_tutorial/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
