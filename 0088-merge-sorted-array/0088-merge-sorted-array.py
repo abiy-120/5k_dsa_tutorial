@@ -12,6 +12,7 @@ class Solution:
             else:
                 nums1[index] = nums1[left]
                 nums1[left] = nums2[right]
+                left -= 1
             right -= 1
             index -= 1
         nums1.sort()
